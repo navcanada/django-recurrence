@@ -73,8 +73,7 @@ setup(
     ),
 
     packages=(
-        'recurrence',
-        'recurrence.migrations'
+        'recurrence'
     ),
     package_dir={
         'recurrence': 'recurrence'
