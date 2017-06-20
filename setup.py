@@ -73,7 +73,7 @@ setup(
     ),
 
     packages=(
-        'recurrence'
+        'recurrence',
     ),
     package_dir={
         'recurrence': 'recurrence'
